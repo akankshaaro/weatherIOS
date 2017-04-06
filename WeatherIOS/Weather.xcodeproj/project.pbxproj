@@ -22,6 +22,10 @@
 		823F14101E967D1400D58EAA /* Constant.swift in Sources */ = {isa = PBXBuildFile; fileRef = 823F140D1E967D1400D58EAA /* Constant.swift */; };
 		8269D3841E96CAE700A3D8D1 /* UIImage+Download.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8269D3831E96CAE700A3D8D1 /* UIImage+Download.swift */; };
 		8269D3861E96CAF300A3D8D1 /* WeatherInfo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8269D3851E96CAF300A3D8D1 /* WeatherInfo.swift */; };
+		8269D3891E96E13700A3D8D1 /* WeatherInfo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8269D3851E96CAF300A3D8D1 /* WeatherInfo.swift */; };
+		8269D38A1E96E13800A3D8D1 /* WeatherInfo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8269D3851E96CAF300A3D8D1 /* WeatherInfo.swift */; };
+		8269D38B1E96E14200A3D8D1 /* UIImage+Download.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8269D3831E96CAE700A3D8D1 /* UIImage+Download.swift */; };
+		8269D38C1E96E14200A3D8D1 /* UIImage+Download.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8269D3831E96CAE700A3D8D1 /* UIImage+Download.swift */; };
 		82BCC5AD1E96C72100805F55 /* WeatherAPIDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 82BCC5AC1E96C72100805F55 /* WeatherAPIDelegate.swift */; };
 		82BCC5AE1E96C72100805F55 /* WeatherAPIDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 82BCC5AC1E96C72100805F55 /* WeatherAPIDelegate.swift */; };
 		82BCC5AF1E96C72100805F55 /* WeatherAPIDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 82BCC5AC1E96C72100805F55 /* WeatherAPIDelegate.swift */; };
@@ -329,7 +333,9 @@
 				823F14031E95B26400D58EAA /* WeatherAPI.swift in Sources */,
 				82BCC5AE1E96C72100805F55 /* WeatherAPIDelegate.swift in Sources */,
 				823F140F1E967D1400D58EAA /* Constant.swift in Sources */,
+				8269D3891E96E13700A3D8D1 /* WeatherInfo.swift in Sources */,
 				823F13E31E9584CF00D58EAA /* WeatherTests.swift in Sources */,
+				8269D38B1E96E14200A3D8D1 /* UIImage+Download.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -340,7 +346,9 @@
 				823F14041E95B26400D58EAA /* WeatherAPI.swift in Sources */,
 				82BCC5AF1E96C72100805F55 /* WeatherAPIDelegate.swift in Sources */,
 				823F14101E967D1400D58EAA /* Constant.swift in Sources */,
+				8269D38A1E96E13800A3D8D1 /* WeatherInfo.swift in Sources */,
 				823F13EE1E9584CF00D58EAA /* WeatherUITests.swift in Sources */,
+				8269D38C1E96E14200A3D8D1 /* UIImage+Download.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
